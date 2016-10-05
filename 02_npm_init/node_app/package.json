@@ -1,0 +1,6 @@
+{
+  "name" : "NodeJSTutorialApp",
+  "scripts" : {
+    "start" : "node server.js"
+  }
+}

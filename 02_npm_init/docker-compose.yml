@@ -1,0 +1,4 @@
+02_npm_init:
+  build: .
+  volumes:
+    - ./node_app:/etc/tutorial_app
